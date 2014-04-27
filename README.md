@@ -1,6 +1,6 @@
 Data-Structures
 ===============
 
-Contains Data Structure implementation
+Contains Data Structure and Sorting Algorithms implementation
 
 Run each file as a java application
