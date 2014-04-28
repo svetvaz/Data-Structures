@@ -1,4 +1,4 @@
-package com.datastructures;
+package com.datastructsandalgo;
 
 import java.util.LinkedList;
 import java.util.Queue;
