@@ -191,7 +191,7 @@ public class Sorting {
 	
 	
 	/**
-	 * @param args
+	 * Main: creation on input array and printing the sorted output
 	 */
 	public static void main(String[] args) {
 		//create a list of Integers

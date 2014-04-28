@@ -186,7 +186,9 @@ class BinarySearchTree{
 		   tree = insert(tree,4);
 		return tree;
 	}
-	
+	/**
+     * Main : creation of input tree and printing each traversal
+     */
 	public static void main(String args[])
 	{
 	   BinarySearchTree tree = null;
